@@ -19,7 +19,7 @@ console.log('🚀 Bot is starting...');
  * Function to get user profile photo URL
  */
 
-bot.command('auth', (ctx) => {
+bot.command('start', (ctx) => {
   console.log("receive start command")
   ctx.reply("Log in using LayerG Universal Account:", {
     reply_markup: {
