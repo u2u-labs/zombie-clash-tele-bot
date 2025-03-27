@@ -24,7 +24,7 @@ bot.command('start', (ctx) => {
   ctx.reply("Log in using LayerG Universal Account:", {
     reply_markup: {
       inline_keyboard: [[
-        { text: "Verify", url: "https://t.me/layerg_ua_verification_dev_bot?start=login-1-E85EbC84d048fe75A08256D1bA4b009650FE2eCE" }
+        { text: "Verify", url: "https://t.me/layerg_ua_verification_dev_bot?start=login-1-7c581609293E503dE149d93f34767DFF33d32C16" }
       ]]
     }
   });
